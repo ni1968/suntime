@@ -21,3 +21,9 @@
 .ttOrange{
     color: rgb(231, 143, 91);
 }
+
+.redTag{
+    background-color:rgb(230, 20, 5);
+    color: rgb(255, 255, 255);
+    font-size: 0.8em;
+}
